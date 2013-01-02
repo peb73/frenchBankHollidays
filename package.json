@@ -1,19 +1,24 @@
 {
-	"name" : "frenchBankHollidays",
-	"description": "function than return franch bank hollidays",
+	"name": "frenchBankHollidays",
+	"description": "function than return french bank hollidays",
 	"version": "0.0.1",
-	"contributors": [
-	    {
-	    	"name": "Pierre-Emmanuel BOITEAU",
-	    	"email": "boiteaupe@gmail.com"
-	    },
-  	],
+	"author": {
+    	"name": "Pierre-Emmanuel BOITEAU",
+    	"email": "boiteaupe@gmail.com"
+    },
   	"keywords": [
 		"easter",
 	    "french",
 	    "bank",
 	    "hollidays"
 	],
-	"main":"index.js",
-	"dependencies": {},
+	"main": "index.js",
+	"dependencies": {
+		"tap": "*"
+	},
+	"devDependencies": {},
+  	"repository": {
+    	"type": "git",
+	    "url": "https://github.com/peb73/frenchBankHollidays.git"
+	}
 }
