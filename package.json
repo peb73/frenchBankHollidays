@@ -1,0 +1,19 @@
+{
+	"name" : "frenchBankHollidays",
+	"description": "function than return franch bank hollidays",
+	"version": "0.0.1",
+	"contributors": [
+	    {
+	    	"name": "Pierre-Emmanuel BOITEAU",
+	    	"email": "boiteaupe@gmail.com"
+	    },
+  	],
+  	"keywords": [
+		"easter",
+	    "french",
+	    "bank",
+	    "hollidays"
+	],
+	"main":"index.js",
+	"dependencies": {},
+}
